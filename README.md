@@ -5,7 +5,7 @@ This project was created on May 2, 2019\.
 **Bikeshare Database Exploration**
 
 ### Description
-This project aims to create a user\-friendly tool to quickly investigate a bikeshare database for three main US cities: Chicago, New York City, Washington DC\. This tool provides an interactive experience \- the user can filter data by day and month and obtain information including type of user, frequent routes, length of the trip, etc.
+This project aims to create a user\-friendly tool to quickly investigate a bikeshare database for three main US cities: Chicago, New York City, Washington DC\. This tool provides an interactive experience \- the user can filter data by City, day, and month - and obtain information including user type, frequent routes, length of the trip, etc.
 
 ### Files used
 The script is included in the file:
