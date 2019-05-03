@@ -21,4 +21,4 @@ The dataset is included the following files:
 [pandas.to_datetime](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
 2. Convert month to number (e\.g\. January=1): [pandas.Series.dt.month](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.month.html)
 3. Convert day of week to a number (e\.g\. Monday=0): [pandas.DatetimeIndex.dayofweek](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DatetimeIndex.dayofweek.html)
-4. Dataset was provided by [Motivate](https://www.motivateco.com/) and made available by [Udacity](https://www.udacity.com/) as part of the [Programming for Data Science Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+4. The dataset was provided by [Motivate](https://www.motivateco.com/) and made available by [Udacity](https://www.udacity.com/) as part of the [Programming for Data Science Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
